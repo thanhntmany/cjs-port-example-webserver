@@ -1,0 +1,14 @@
+{
+  "name": "cjs-port-example-webserver",
+  "version": "1.0.0",
+  "description": "cjs-port-example-webserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thanh Nguyen Thuan <thanhntmany@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cjs-port": "github:thanhntmany/cjs-port"
+  }
+}
